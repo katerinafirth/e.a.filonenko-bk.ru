@@ -1,4 +1,6 @@
-﻿using System;
+// ГЛАВА 1
+
+using System;
 using System.Windows;
 using System.Windows.Input;
 namespace Petzold.HandleAnEvent
