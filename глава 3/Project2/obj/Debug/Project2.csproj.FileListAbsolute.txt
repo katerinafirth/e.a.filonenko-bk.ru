@@ -1,0 +1,7 @@
+c:\users\eafil\source\repos\Project2\Project2\bin\Debug\Project2.exe.config
+c:\users\eafil\source\repos\Project2\Project2\bin\Debug\Project2.exe
+c:\users\eafil\source\repos\Project2\Project2\bin\Debug\Project2.pdb
+c:\users\eafil\source\repos\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+c:\users\eafil\source\repos\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+c:\users\eafil\source\repos\Project2\Project2\obj\Debug\Project2.exe
+c:\users\eafil\source\repos\Project2\Project2\obj\Debug\Project2.pdb
