@@ -1,0 +1,7 @@
+C:\Users\eafil\source\repos\23March\23March\obj\Debug\23March.csprojAssemblyReference.cache
+C:\Users\eafil\source\repos\23March\23March\obj\Debug\23March.csproj.CoreCompileInputs.cache
+C:\Users\eafil\source\repos\23March\23March\bin\Debug\23March.exe.config
+C:\Users\eafil\source\repos\23March\23March\bin\Debug\23March.exe
+C:\Users\eafil\source\repos\23March\23March\bin\Debug\23March.pdb
+C:\Users\eafil\source\repos\23March\23March\obj\Debug\23March.exe
+C:\Users\eafil\source\repos\23March\23March\obj\Debug\23March.pdb
