@@ -1,0 +1,2 @@
+C:\Users\eafil\source\repos\Project4\Project4\obj\Debug\Project4.csprojAssemblyReference.cache
+C:\Users\eafil\source\repos\Project4\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
