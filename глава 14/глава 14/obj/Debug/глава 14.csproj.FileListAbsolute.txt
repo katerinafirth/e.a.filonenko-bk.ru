@@ -1,0 +1,7 @@
+C:\Users\eafil\source\repos\глава 14\глава 14\bin\Debug\глава 14.exe.config
+C:\Users\eafil\source\repos\глава 14\глава 14\bin\Debug\глава 14.exe
+C:\Users\eafil\source\repos\глава 14\глава 14\bin\Debug\глава 14.pdb
+C:\Users\eafil\source\repos\глава 14\глава 14\obj\Debug\глава 14.csprojAssemblyReference.cache
+C:\Users\eafil\source\repos\глава 14\глава 14\obj\Debug\глава 14.csproj.CoreCompileInputs.cache
+C:\Users\eafil\source\repos\глава 14\глава 14\obj\Debug\глава 14.exe
+C:\Users\eafil\source\repos\глава 14\глава 14\obj\Debug\глава 14.pdb
