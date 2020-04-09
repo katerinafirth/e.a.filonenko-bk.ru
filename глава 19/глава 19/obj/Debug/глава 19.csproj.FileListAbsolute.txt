@@ -1,2 +1,0 @@
-C:\Users\eafil\source\repos\глава 19\глава 19\obj\Debug\глава 19.csprojAssemblyReference.cache
-C:\Users\eafil\source\repos\глава 19\глава 19\obj\Debug\глава 19.csproj.CoreCompileInputs.cache
