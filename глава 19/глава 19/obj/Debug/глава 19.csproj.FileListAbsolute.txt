@@ -1,0 +1,10 @@
+C:\Users\eafil\source\repos\глава 19\глава 19\obj\Debug\глава 19.csprojAssemblyReference.cache
+C:\Users\eafil\source\repos\глава 19\глава 19\obj\Debug\глава 19.csproj.CoreCompileInputs.cache
+C:\Users\eafil\source\repos\глава 19\глава 19\bin\Debug\глава 19.exe.config
+C:\Users\eafil\source\repos\глава 19\глава 19\bin\Debug\глава 19.exe
+C:\Users\eafil\source\repos\глава 19\глава 19\bin\Debug\глава 19.pdb
+C:\Users\eafil\source\repos\глава 19\глава 19\obj\Debug\глава 19.exe
+C:\Users\eafil\source\repos\глава 19\глава 19\obj\Debug\глава 19.pdb
+C:\Users\eafil\source\repos\глава 19\глава 19\obj\Debug\UserControl1.baml
+C:\Users\eafil\source\repos\глава 19\глава 19\obj\Debug\глава 19_MarkupCompile.cache
+C:\Users\eafil\source\repos\глава 19\глава 19\obj\Debug\глава 19.g.resources

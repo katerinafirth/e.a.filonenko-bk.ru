@@ -1,0 +1,13 @@
+﻿<StackPanel xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" d:DesignWidth="351.448" d:DesignHeight="395.959">
+    <Button HorizontalAlignment="Center" Margin="24" Content="Hello, XAML!"/> <!-- описание расположения кнопки -->
+    <Ellipse Width="200" Height="100" Margin="24" Stroke="Red" StrokeThickness="10" />
+    <ListBox Width="100" Height="100" Margin="24">
+        <ListBoxItem Content="Sunday"/>
+        <ListBoxItem Content="Monday"/>
+        <ListBoxItem Content="Tuesday"/>
+        <ListBoxItem Content="Wednesday"/>
+        <ListBoxItem Content="Thursday"/>
+        <ListBoxItem Content="Friday"/>
+        <ListBoxItem Content="Saturday"/>
+    </ListBox>
+</StackPanel>
