@@ -1,0 +1,5 @@
+C:\Users\eafil\source\repos\глава 28\глава 28\obj\Debug\глава 28.csprojAssemblyReference.cache
+C:\Users\eafil\source\repos\глава 28\глава 28\obj\Debug\UserControl1.baml
+C:\Users\eafil\source\repos\глава 28\глава 28\obj\Debug\глава 28_MarkupCompile.cache
+C:\Users\eafil\source\repos\глава 28\глава 28\obj\Debug\глава 28.g.resources
+C:\Users\eafil\source\repos\глава 28\глава 28\obj\Debug\глава 28.csproj.CoreCompileInputs.cache
