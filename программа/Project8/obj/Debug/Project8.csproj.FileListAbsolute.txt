@@ -1,0 +1,13 @@
+C:\Users\eafil\source\repos\Project8\Project8\bin\Debug\Project8.exe.config
+C:\Users\eafil\source\repos\Project8\Project8\bin\Debug\Project8.exe
+C:\Users\eafil\source\repos\Project8\Project8\bin\Debug\Project8.pdb
+C:\Users\eafil\source\repos\Project8\Project8\obj\Debug\Project8.csprojAssemblyReference.cache
+C:\Users\eafil\source\repos\Project8\Project8\obj\Debug\Interop.Accessibility.dll
+C:\Users\eafil\source\repos\Project8\Project8\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\eafil\source\repos\Project8\Project8\obj\Debug\Interop.NETWORKLIST.dll
+C:\Users\eafil\source\repos\Project8\Project8\obj\Debug\Interop.SwapAPODlllib.dll
+C:\Users\eafil\source\repos\Project8\Project8\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\eafil\source\repos\Project8\Project8\obj\Debug\Project8.csproj.ResolveComReference.cache
+C:\Users\eafil\source\repos\Project8\Project8\obj\Debug\Project8.csproj.CoreCompileInputs.cache
+C:\Users\eafil\source\repos\Project8\Project8\obj\Debug\Project8.exe
+C:\Users\eafil\source\repos\Project8\Project8\obj\Debug\Project8.pdb
